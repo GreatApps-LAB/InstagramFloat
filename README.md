@@ -2,10 +2,6 @@
 
 # **Instagram Float**
 
-<p style="color:red">
-O código abaixo adiciona um botão flutuante do Instagram a uma página na plataforma Greatpages. Copie e cole no menu de configurações da página.
-</p>
-
 O código abaixo adiciona um botão flutuante do Instagram a uma página na plataforma Greatpages. Copie e cole no menu de configurações da página.
 
 <br>
