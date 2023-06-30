@@ -11,7 +11,7 @@ O código abaixo adiciona um botão flutuante do Instagram a uma página na plat
 <br>
 
 ```html
-<!-- Instagram Float for Greatpages v. 1.0.0 - Ⓒ Copyright 2023 Claiton Lemes. -->
+<!-- Instagram Float for Greatpages v. 0.5.0 - Ⓒ Copyright 2023 Claiton Lemes. -->
 
 <a target="_blank" href="LINKAQUI" class="float">
   <svg class="icon">
